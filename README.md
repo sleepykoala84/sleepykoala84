@@ -1,12 +1,11 @@
-# About Me
-# :partying_face:
+I am currently working on my associate's degree in programming. I will also continue to my bachelors.
+Currently I have had practice with Python and SQL.
+I've worked the last 20 years as a radiologic technologist and want to make a career change. Through my career, I have had the oportunity to work as an imaging systems administrator. This is where
+my love for all things technology came from. I worked with HL7 and dicom formarts mainly. I also assisted with connecting radiology devices to the hospital network. My team also assisted with handling
+IT trouble tickets for the hospital while having a focus on the radiology department. The largest projects worked on during my time in that role were converting the cardiology imaging department to a new
+PACS (picture archiving and communication system) system and connecting the Cardio/Respiratory unit up to the new MUSE system for EKGs. This included user training as well as data clean up and merging. Regular
+duties involved user training and support as well as support and training for the radiologists.
 
-
-- 🔭 I’m currently working on my associates degree in programming. We have covered Java so far and I'm in love!
-- 🌱 I’m currently learning how to code, obviously, and play guitar, and juggle all of the wonderful things in this life.
-- 👯 I’m looking to collaborate on anything that will help build a portfolio and my skills in this area. I'm eager to learn!
-- 🤔 I’m looking for help with ... well anything really. Any advice given will be taken with an open mind.
-- 💬 Ask me about my cats? Or don't. There are 6. I refuse to be the 'cat lady'. Try asking why I wanted to make this change.
-- 📫 How to reach me: sunchaser712@gmail.com
-- ⚡ Fun fact: downtime this summer will be spent flying a kite on the beach while my 15 yr old fishes
+While times are a bit different, and my area of study has changed, continuing to learn and grow has been important to me. I look forward to continuing to challenge myself and bring my unique perspective
+into any new roles I take on.
 
